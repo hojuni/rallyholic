@@ -1,14 +1,1 @@
-[
-	{
-		"name": "RallyHOLiC #3",
-		"peroid": "Jan 3, 2021 - Mar 27, 2021\nGroup RC2/RC4"
-	},
-	{
-		"name": "RallyHOLiC #2",
-		"peroid": "Jan 3, 2021 - Mar 27, 2021\nGroup RC2/RC4"
-	},
-	{
-		"name": "RallyHOLiC #1",
-		"peroid": "Jan 3, 2021 - Mar 27, 2021\nGroup RC2/RC4"
-	}
-]
+[{"name":"RallyHOLiC #3","peroid":"Jan 3, 2021 - Mar 27, 2021\nGroup RC2/RC4"},{"name":"RallyHOLiC #2","peroid":"Jan 3, 2021 - Mar 27, 2021\nGroup RC2/RC4"},{"name":"RallyHOLiC #1","peroid":"Jan 3, 2021 - Mar 27, 2021\nGroup RC2/RC4"}]
