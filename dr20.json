@@ -1,0 +1,6 @@
+[
+	{"State": "P", "Name": "RallyHOLiC2", "No": "2", "Peroid": "Jan 3, 2021 - Mar 27, 2021", "Group": "Class R5 / NR4", "File": "dr2_rallyholic2_2_r5.json"},
+	{"State": "P", "Name": "RallyHOLiC3", "No": "2", "Peroid": "Jan 3, 2021 - Mar 27, 2021", "Group": "Class R2", "File": "dr2_rallyholic3_2_r2.json"},
+	{"State": "E", "Name": "RallyHOLiC2", "No": "1", "Peroid": "Oct 4, 2020 - Dec 26, 2020", "Group": "All Classes", "File": "dr2_rallyholic2_1_r5.json"},
+	{"State": "E", "Name": "RallyHOLiC3", "No": "1", "Peroid": "Oct 4, 2020 - Dec 26, 2020", "Group": "Class R2", "File": "dr2_rallyholic3_1_2.json"}
+]
