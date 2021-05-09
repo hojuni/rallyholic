@@ -1,12 +1,18 @@
 [
-	{"Rank": "1", "Country": "LVA", "Driver": "Karlis KLIEMANIS", "R1": "12 + 2\n( 4. )", "R2": "25 + 4\n( 1. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "43"},
-	{"Rank": "2", "Country": "FIN", "Driver": "Willy Slow", "R1": "18 + 1\n( 2. )", "R2": "18 + 1\n( 2. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "38"},
-	{"Rank": "3", "Country": "USA", "Driver": "Dominic Martina", "R1": "25 + 5\n( 1. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"},
-	{"Rank": "4", "Country": "HUN", "Driver": "harsanyiatika", "R1": "15 + 4\n( 3. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "19"},
-	{"Rank": "5", "Country": "FIN", "Driver": "ANSARANTA Rasmus", "R1": "-", "R2": "15 + 3\n( 3. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "18"},
-	{"Rank": "6", "Country": "FIN", "Driver": "janimahonen", "R1": "-", "R2": "12 + 5\n( 4. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "17"},
-	{"Rank": "7", "Country": "KOR", "Driver": "Rabbit Runner", "R1": "6\n( 7. )", "R2": "8\n( 6. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "14"},
-	{"Rank": "8", "Country": "HUN", "Driver": "ZoCi", "R1": "10 + 3\n( 5. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "13"},
-	{"Rank": "9", "Country": "BGR", "Driver": "MITRIX", "R1": "-", "R2": "10 + 2\n( 5. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "12"},
-	{"Rank": "10", "Country": "JPN", "Driver": "Ryo0116", "R1": "8\n( 6. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "8"}
+	{"Rank": "1", "Country": "LVA", "Driver": "Karlis KLIEMANIS", "R1": "12 + 2\n( 4. )", "R2": "25 + 4\n( 1. )", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "43"},
+	{"Rank": "2", "Country": "FIN", "Driver": "Willy Slow", "R1": "18 + 1\n( 2. )", "R2": "18 + 1\n( 2. )", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "38"},
+	{"Rank": "3", "Country": "HUN", "Driver": "Hlavi", "R1": "-", "R2": "-", "R3": "25 + 5\n( 1. )", "R4": "", "R5": "", "R6": "", "Total": "30"},
+	{"Rank": "-", "Country": "USA", "Driver": "Dominic Martina", "R1": "25 + 5\n( 1. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "30"},
+	{"Rank": "5", "Country": "HUN", "Driver": "Vasgabi", "R1": "-", "R2": "-", "R3": "18 + 4\n( 2. )", "R4": "", "R5": "", "R6": "", "Total": "22"},
+	{"Rank": "6", "Country": "KOR", "Driver": "Rabbit Runner", "R1": "6\n( 7. )", "R2": "8\n( 6. )", "R3": "6\n( 7. )", "R4": "", "R5": "", "R6": "", "Total": "20"},
+	{"Rank": "7", "Country": "HUN", "Driver": "harsanyiatika", "R1": "15 + 4\n( 3. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "19"},
+	{"Rank": "8", "Country": "HUN", "Driver": "vargabence3", "R1": "-", "R2": "-", "R3": "15 + 3\n( 3. )", "R4": "", "R5": "", "R6": "", "Total": "18"},
+	{"Rank": "-", "Country": "FIN", "Driver": "ANSARANTA Rasmus", "R1": "-", "R2": "15 + 3\n( 3. )", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "18"},
+	{"Rank": "10", "Country": "FIN", "Driver": "janimahonen", "R1": "-", "R2": "12 + 5\n( 4. )", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "17"},
+	{"Rank": "11", "Country": "HUN", "Driver": "Minilac", "R1": "-", "R2": "-", "R3": "12 + 2\n( 4. )", "R4": "", "R5": "", "R6": "", "Total": "14"},
+	{"Rank": "12", "Country": "HUN", "Driver": "ZoCi", "R1": "10 + 3\n( 5. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "13"},
+	{"Rank": "13", "Country": "BGR", "Driver": "MITRIX", "R1": "-", "R2": "10 + 2\n( 5. )", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "12"},
+	{"Rank": "14", "Country": "HUN", "Driver": "rolpin11", "R1": "-", "R2": "-", "R3": "10 + 1\n( 5. )", "R4": "", "R5": "", "R6": "", "Total": "11"},
+	{"Rank": "15", "Country": "AUS", "Driver": "cafthe2nd", "R1": "-", "R2": "-", "R3": "8\n( 6. )", "R4": "", "R5": "", "R6": "", "Total": "8"},
+	{"Rank": "-", "Country": "JPN", "Driver": "Ryo0116", "R1": "8\n( 6. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "8"}
 ]
