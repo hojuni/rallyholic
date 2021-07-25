@@ -1,6 +1,6 @@
 [
-	{"Rank": "1", "Country": "ROU", "Driver": "DIACONESCU Remus", "R1": "25 + 5\n( 7. )", "R2": "", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"},
-	{"Rank": "2", "Country": "GBR", "Driver": "PETTET Jordan", "R1": "18 + 4\n( 14. )", "R2": "", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "22"},
-	{"Rank": "3", "Country": "GRC", "Driver": "OICHALIOTIS Aristos", "R1": "15 + 2\n( 16. )", "R2": "", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "17"},
-	{"Rank": "4", "Country": "KOR", "Driver": "Rabbit Runner", "R1": "12 + 3\n( 18. )", "R2": "", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "15"}
+	{"Rank": "1", "Country": "GBR", "Driver": "PETTET Jordan", "R1": "18 + 4\n( 14. )", "R2": "25 + 5\n( 3. )", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "52"},
+	{"Rank": "2", "Country": "ROU", "Driver": "DIACONESCU Remus", "R1": "25 + 5\n( 7. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"},
+	{"Rank": "3", "Country": "GRC", "Driver": "OICHALIOTIS Aristos", "R1": "15 + 2\n( 16. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "17"},
+	{"Rank": "4", "Country": "KOR", "Driver": "Rabbit Runner", "R1": "12 + 3\n( 18. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "15"}
 ]
