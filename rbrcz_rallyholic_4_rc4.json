@@ -1,6 +1,8 @@
 [
-	{"Rank": "1", "Country": "ARG", "Driver": "BORCIC Daniel", "R1": "25 + 5\n( 18. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"},
-	{"Rank": "2", "Country": "ARG", "Driver": "BERNARDINI Roberto", "R1": "18 + 4\n( 20. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "22"},
-	{"Rank": "3", "Country": "KOR", "Driver": "Rabbit Runner", "R1": "15 + 2\n( 21. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "17"},
-	{"Rank": "4", "Country": "CZE", "Driver": "Jakub Kucirka", "R1": "12 + 3\n( 22. )", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "15"}
+	{"Rank": "1", "Country": "ARG", "Driver": "BERNARDINI Roberto", "R1": "18 + 4\n( 20. )", "R2": "-", "R3": "18 + 4\n( 7. )", "R4": "", "R5": "", "R6": "", "Total": "44"},
+	{"Rank": "2", "Country": "ARG", "Driver": "BORCIC Daniel", "R1": "25 + 5\n( 18. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "30"},
+	{"Rank": "3", "Country": "ESP", "Driver": "SUEIRAS Xabi", "R1": "-", "R2": "-", "R3": "25 + 3\n( 6. )", "R4": "", "R5": "", "R6": "", "Total": "28"},
+	{"Rank": "4", "Country": "POL", "Driver": "Grzegorz Matusiak", "R1": "-", "R2": "-", "R3": "15 + 5\n( 8. )", "R4": "", "R5": "", "R6": "", "Total": "20"},
+	{"Rank": "5", "Country": "KOR", "Driver": "Rabbit Runner", "R1": "15 + 2\n( 21. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "17"},
+	{"Rank": "6", "Country": "CZE", "Driver": "Jakub Kucirka", "R1": "12 + 3\n( 22. )", "R2": "-", "R3": "-", "R4": "", "R5": "", "R6": "", "Total": "15"}
 ]
