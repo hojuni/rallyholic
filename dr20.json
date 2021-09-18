@@ -1,5 +1,5 @@
 [
-	{"State": "P", "Name": "RallyWars", "No": "1", "Peroid": "Korea and Japan friendly match", "Group": "Random Class", "File": "dr2_rallywars_1.json", "Updated": "( Last updated: Sep 12, 2021 )"},
+	{"State": "P", "Name": "RallyWars", "No": "1", "Peroid": "Korea & Japan Friendly Match", "Group": "Random Class", "File": "dr2_rallywars_1.json", "Updated": "( Last updated: Sep 12, 2021 )"},
 	{"State": "P", "Name": "RallyHOLiC", "No": "2", "Peroid": "Jul 4, 2021 - Sep 25, 2021", "Group": "Class Kit Car", "File": "dr2_rallyholic_2_kit.json", "Updated": "( Last updated: Sep 12, 2021 )"},
 	{"State": "P", "Name": "RallyHOLiC2", "No": "5", "Peroid": "Jul 4, 2021 - Sep 25, 2021", "Group": "Class Up To 2000", "File": "dr2_rallyholic2_5_2000.json", "Updated": "( Last updated: Sep 12, 2021 )"},
 	{"State": "P", "Name": "RallyHOLiC3", "No": "3", "Peroid": "Jul 4, 2021 - Sep 25, 2021", "Group": "Class R2", "File": "dr2_rallyholic3_3_r2.json", "Updated": "( Last updated: Sep 12, 2021 )"},
