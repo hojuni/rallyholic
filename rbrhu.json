@@ -1,5 +1,5 @@
 [
-	{"State": "P", "Name": "RallyHOLiC", "No": "4", "Peroid": "Oct 3, 2021 - Dec 18, 2021", "Group": "Group A5", "File": "", "Updated": ""},
+	{"State": "P", "Name": "RallyHOLiC", "No": "4", "Peroid": "Oct 3, 2021 - Dec 18, 2021", "Group": "Group A5", "File": "rbrhu_rallyholic_4_a5.json", "Updated": "( Last updated: Oct 10, 2021 )"},
 	{"State": "E", "Name": "RallyHOLiC", "No": "3", "Peroid": "Jul 4, 2021 - Sep 18, 2021", "Group": "Group R5", "File": "rbrhu_rallyholic_3_r5.json", "Updated": "( Last updated: Sep 19, 2021 )"},
 	{"State": "E", "Name": "RallyHOLiC", "No": "3", "Peroid": "Jul 4, 2021 - Sep 18, 2021", "Group": "Group R2", "File": "rbrhu_rallyholic_3_r2.json", "Updated": "( Last updated: Sep 19, 2021 )"},
 	{"State": "E", "Name": "RallyHOLiC", "No": "2", "Peroid": "Apr 4, 2021 - Jun 19, 2021", "Group": "Group WRC 1.6", "File": "rbrhu_rallyholic_2_wrc.json", "Updated": "( Last updated: June 20, 2021 )"},
