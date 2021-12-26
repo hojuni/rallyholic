@@ -1,11 +1,11 @@
 [
-	{"State": "E", "Name": "RallyHOLiC", "No": "5", "Peroid": "Oct 3, 2021 - Dec 18, 2021", "Group": "A", "File": "rbrcz_rallyholic_5_a.json", "Updated": "( Last updated: Dec 19, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "4", "Peroid": "Jul 4, 2021 - Sep 18, 2021", "Group": "RC2", "File": "rbrcz_rallyholic_4_rc2.json", "Updated": "( Last updated: Sep 19, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "4", "Peroid": "Jul 4, 2021 - Sep 18, 2021", "Group": "RC4", "File": "rbrcz_rallyholic_4_rc4.json", "Updated": "( Last updated: Sep 19, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "3", "Peroid": "Apr 4, 2021 - Jun 19, 2021", "Group": "RC1", "File": "rbrcz_rallyholic_3_rc1.json", "Updated": "( Last updated: Jun 20, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "3", "Peroid": "Apr 4, 2021 - Jun 19, 2021", "Group": "RC2", "File": "rbrcz_rallyholic_3_rc2.json", "Updated": "( Last updated: Jun 20, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "2", "Peroid": "Jan 3, 2021 - Mar 20, 2021", "Group": "RC2", "File": "rbrcz_rallyholic_2_rc2.json", "Updated": "( Last updated: Mar 21, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "2", "Peroid": "Jan 3, 2021 - Mar 20, 2021", "Group": "RC4", "File": "rbrcz_rallyholic_2_rc4.json", "Updated": "( Last updated: Mar 21, 2021 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "1", "Peroid": "Oct 4, 2020 - Dec 26, 2020", "Group": "RC2", "File": "rbrcz_rallyholic_1_rc2.json", "Updated": "( Last updated: Dec 20, 2020 )"},
-	{"State": "E", "Name": "RallyHOLiC", "No": "1", "Peroid": "Oct 4, 2020 - Dec 26, 2020", "Group": "RC4", "File": "rbrcz_rallyholic_1_rc4.json", "Updated": "( Last updated: Dec 20, 2020 )"}
+	{"State": "E", "Name": "RallyHOLiC", "No": "5", "Peroid": "Oct 3, 2021 - Dec 18, 2021", "Group": "Group A", "File": "rbrcz_rallyholic_5_a.json", "Updated": "( Last updated: Dec 19, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "4", "Peroid": "Jul 4, 2021 - Sep 18, 2021", "Group": "Group RC2", "File": "rbrcz_rallyholic_4_rc2.json", "Updated": "( Last updated: Sep 19, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "4", "Peroid": "Jul 4, 2021 - Sep 18, 2021", "Group": "Group RC4", "File": "rbrcz_rallyholic_4_rc4.json", "Updated": "( Last updated: Sep 19, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "3", "Peroid": "Apr 4, 2021 - Jun 19, 2021", "Group": "Group RC1", "File": "rbrcz_rallyholic_3_rc1.json", "Updated": "( Last updated: Jun 20, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "3", "Peroid": "Apr 4, 2021 - Jun 19, 2021", "Group": "Group RC2", "File": "rbrcz_rallyholic_3_rc2.json", "Updated": "( Last updated: Jun 20, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "2", "Peroid": "Jan 3, 2021 - Mar 20, 2021", "Group": "Group RC2", "File": "rbrcz_rallyholic_2_rc2.json", "Updated": "( Last updated: Mar 21, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "2", "Peroid": "Jan 3, 2021 - Mar 20, 2021", "Group": "Group RC4", "File": "rbrcz_rallyholic_2_rc4.json", "Updated": "( Last updated: Mar 21, 2021 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "1", "Peroid": "Oct 4, 2020 - Dec 26, 2020", "Group": "Group RC2", "File": "rbrcz_rallyholic_1_rc2.json", "Updated": "( Last updated: Dec 20, 2020 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "1", "Peroid": "Oct 4, 2020 - Dec 26, 2020", "Group": "Group RC4", "File": "rbrcz_rallyholic_1_rc4.json", "Updated": "( Last updated: Dec 20, 2020 )"}
 ]
