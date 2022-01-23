@@ -1,3 +1,9 @@
 [
-	{"Rank": "1", "Country": "HUN", "Driver": "Benny", "R1": "25 + 5\n(1.)", "R2": "", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"}
+	{"Rank": "1", "Country": "ESP", "Driver": "GUTIERREZ Ricardo", "R1": "-", "R2": "25 + 5\n(1.)", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"},
+	{"Rank": "-", "Country": "HUN", "Driver": "Benny", "R1": "25 + 5\n(1.)", "R2": "-", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "30"},
+	{"Rank": "3", "Country": "FIN", "Driver": "ANSARANTA Rasmus", "R1": "-", "R2": "18 + 4\n(2.)", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "22"},
+	{"Rank": "4", "Country": "FIN", "Driver": "Marko Vastamaki", "R1": "-", "R2": "15 + 3\n(3.)", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "18"},
+	{"Rank": "5", "Country": "GBR", "Driver": "PETTET Jordan", "R1": "-", "R2": "12 + 1\n(4.)", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "13"},
+	{"Rank": "6", "Country": "JPN", "Driver": "azur007fff", "R1": "-", "R2": "10\n(5.)", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "10"},
+	{"Rank": "-", "Country": "CAN", "Driver": "NPRacing", "R1": "-", "R2": "8 + 2\n(6.)", "R3": "", "R4": "", "R5": "", "R6": "", "Total": "10"}
 ]
