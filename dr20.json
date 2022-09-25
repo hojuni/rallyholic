@@ -1,7 +1,7 @@
 [
-	{"State": "P", "Name": "RallyHOLiC", "No": "6", "Peroid": "Jul 3, 2022 - Sep 24, 2022", "Group": "Kit Car", "File": "dr2_rallyholic_6.json", "Updated": "( Last updated: Sep 11, 2022 )"},
-	{"State": "P", "Name": "RallyHOLiC2", "No": "9", "Peroid": "Jul 3, 2022 - Sep 24, 2022", "Group": "Up To 2000", "File": "dr2_rallyholic2_9.json", "Updated": "( Last updated: Sep 11, 2022 )"},
-	{"State": "P", "Name": "RallyHOLiC3", "No": "6", "Peroid": "Jul 3, 2022 - Sep 24, 2022", "Group": "NR4/R4", "File": "dr2_rallyholic3_6.json", "Updated": "( Last updated: Sep 11, 2022 )"},
+	{"State": "E", "Name": "RallyHOLiC", "No": "6", "Peroid": "Jul 3, 2022 - Sep 24, 2022", "Group": "Kit Car", "File": "dr2_rallyholic_6.json", "Updated": "( Last updated: Sep 25, 2022 )"},
+	{"State": "E", "Name": "RallyHOLiC2", "No": "9", "Peroid": "Jul 3, 2022 - Sep 24, 2022", "Group": "Up To 2000", "File": "dr2_rallyholic2_9.json", "Updated": "( Last updated: Sep 25, 2022 )"},
+	{"State": "E", "Name": "RallyHOLiC3", "No": "6", "Peroid": "Jul 3, 2022 - Sep 24, 2022", "Group": "NR4/R4", "File": "dr2_rallyholic3_6.json", "Updated": "( Last updated: Sep 25, 2022 )"},
 	{"State": "E", "Name": "RallyHOLiC", "No": "5", "Peroid": "Apr 3, 2022 - Jun 25, 2022", "Group": "B.4WD", "File": "dr2_rallyholic_5.json", "Updated": "( Last updated: Jun 26, 2022 )"},
 	{"State": "E", "Name": "RallyHOLiC2", "No": "8", "Peroid": "Apr 3, 2022 - Jun 25, 2022", "Group": "Rally GT", "File": "dr2_rallyholic2_8.json", "Updated": "( Last updated: Jun 26, 2022 )"},
 	{"State": "E", "Name": "RallyHOLiC3", "No": "5", "Peroid": "Apr 3, 2022 - Jun 25, 2022", "Group": "R5", "File": "dr2_rallyholic3_5.json", "Updated": "( Last updated: Jun 26, 2022 )"},
